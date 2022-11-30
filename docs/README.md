@@ -2,7 +2,7 @@
 
 Es un contexto de elementos que renderizarán los niveles inferiores de navegación dentro de una lista de bullets con imágenes
 
-<img src="https://github.com/nilsonmax/vtex-exito-store/blob/9f3f9d9b7ba11b2e837a4fc2993293dabd3419e6/assets/img/pantalla-bullets.png />
+<img src="https://github.com/nilsonmax/vtex-exito-store/blob/9f3f9d9b7ba11b2e837a4fc2993293dabd3419e6/assets/img/pantalla-bullets.png"/>
 
 ## Configuración
 ### Paso 1 - Clonación del repositorio
