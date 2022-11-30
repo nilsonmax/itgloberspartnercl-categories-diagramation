@@ -1,6 +1,6 @@
 {
-  "name": "CHANGE_ME",
-  "version": "0.0.0",
+  "name": "bullets-diagramation",
+  "version": "0.0.1",
   "scripts": {
     "test": "vtex-test-tools test"
   },
@@ -17,9 +17,10 @@
     "@types/node": "^13.9.8",
     "@types/react": "^16.9.31",
     "@vtex/test-tools": "^3.3.2",
-    "@vtex/tsconfig": "^0.4.4",
+    "@vtex/tsconfig": "^0.6.0",
     "apollo-cache-inmemory": "^1.6.5",
     "graphql": "^14.6.0",
-    "typescript": "^3.9.6"
+    "prop-types": "^15.8.1",
+    "typescript": "3.9.7"
   }
 }

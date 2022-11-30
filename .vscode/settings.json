@@ -20,5 +20,9 @@
       "directory": "node",
       "changeProcessCWD": true
     }
+  ],
+  "cSpell.words": [
+    "renderizarán",
+    "vtex"
   ]
 }
